@@ -11,3 +11,4 @@ Las librerias utilizadas son :
 - Numpy
 
 El objetivo del juego es mantener un Balance para que el palo no caiga. el objetivo de esta AI es lograr un buen balance, no perfecto pero si Decente 
+El siguiente video es una muestra del resultado antes de que se cayera el palo: https://drive.google.com/file/d/1L1yH7q4645mHN-ryT-B54lWL2Q_qsTO0/view?usp=sharing
