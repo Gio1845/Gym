@@ -1,0 +1,7 @@
+Los requerimientos para poder correr El codigo son:
+
+-Instalar Gym : pip install gym
+
+-Instalar Numpy: pip install numpy==1.19.3
+
+-Instalar Keras: pip install tensorflow keras
