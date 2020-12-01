@@ -9,3 +9,5 @@ Las librerias utilizadas son :
 - GYM
 - Keras
 - Numpy
+
+El objetivo del juego es mantener un Balance para que el palo no caiga. el objetivo de esta AI es lograr un buen balance, no perfecto pero si Decente 
